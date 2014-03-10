@@ -2,8 +2,18 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
+			"name": "AgentRansack",
+			"details": "https://github.com/Starli0n/SublimeAgentRansack",
+			"releases": [
+				{
+					"platforms": "windows",
+					"details": "https://github.com/Starli0n/SublimeAgentRansack"
+				}
+			]
+		},
+		{
 			"name": "SmartOpener",
-			"details": "https://github.com/Starli0n/SmartOpener"
+			"details": "https://github.com/Starli0n/SublimeSmartOpener"
 		}
 	]
 }
