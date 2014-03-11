@@ -12,6 +12,16 @@
 			]
 		},
 		{
+			"name": "Dos",
+			"details": "https://github.com/Starli0n/SublimeDos",
+			"releases": [
+				{
+					"platforms": "windows",
+					"details": "https://github.com/Starli0n/SublimeDos"
+				}
+			]
+		},
+		{
 			"name": "SmartOpener",
 			"details": "https://github.com/Starli0n/SublimeSmartOpener"
 		}
