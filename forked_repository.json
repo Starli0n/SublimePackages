@@ -2,12 +2,16 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
+			"name": "FileDiffs",
+			"details": "https://github.com/Starli0n/F_SublimeFileDiffs"
+		},
+		{
 			"name": "Git",
 			"details": "https://github.com/Starli0n/f_sublime-text-git"
 		},
 		{
-			"name": "FileDiffs",
-			"details": "https://github.com/Starli0n/F_SublimeFileDiffs"
+			"name": "Open-Include",
+			"details": "https://github.com/Starli0n/F_Open-Include"
 		}
 	]
 }
