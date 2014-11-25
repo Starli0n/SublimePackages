@@ -12,6 +12,10 @@
 		{
 			"name": "Open-Include",
 			"details": "https://github.com/Starli0n/F_Open-Include"
+		},
+		{
+			"name": "PHPUnit",
+			"details": "https://Starli0n@github.com/Starli0n/f_sublime-phpunit.git"
 		}
 	]
 }
