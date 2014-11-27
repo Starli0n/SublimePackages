@@ -15,7 +15,11 @@
 		},
 		{
 			"name": "PHPUnit",
-			"details": "https://Starli0n@github.com/Starli0n/f_sublime-phpunit.git"
+			"details": "https://github.com/Starli0n/f_sublime-phpunit"
+		},
+		{
+			"name": "Terminal",
+			"details": "https://github.com/Starli0n/f_sublime_terminal"
 		}
 	]
 }
