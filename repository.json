@@ -12,6 +12,16 @@
 			]
 		},
 		{
+			"name": "Cmder",
+			"details": "https://github.com/Starli0n/SublimeCmder",
+			"releases": [
+				{
+					"platforms": "windows",
+					"details": "https://github.com/Starli0n/SublimeCmder"
+				}
+			]
+		},
+		{
 			"name": "Dos",
 			"details": "https://github.com/Starli0n/SublimeDos",
 			"releases": [
