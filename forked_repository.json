@@ -1,25 +1,55 @@
 {
-	"schema_version": "2.0",
+	"schema_version": "3.0.0",
 	"packages": [
 		{
 			"name": "FileDiffs",
-			"details": "https://github.com/Starli0n/F_SublimeFileDiffs"
+			"details": "https://github.com/Starli0n/F_SublimeFileDiffs",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
 		},
 		{
 			"name": "Git",
-			"details": "https://github.com/Starli0n/f_sublime-text-git"
+			"details": "https://github.com/Starli0n/f_sublime-text-git",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
 		},
 		{
 			"name": "Open-Include",
-			"details": "https://github.com/Starli0n/F_Open-Include"
+			"details": "https://github.com/Starli0n/F_Open-Include",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
 		},
 		{
 			"name": "PHPUnit",
-			"details": "https://github.com/Starli0n/f_sublime-phpunit"
+			"details": "https://github.com/Starli0n/f_sublime-phpunit",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
 		},
 		{
 			"name": "Terminal",
-			"details": "https://github.com/Starli0n/f_sublime_terminal"
+			"details": "https://github.com/Starli0n/f_sublime_terminal",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
 		}
 	]
 }

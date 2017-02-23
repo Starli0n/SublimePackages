@@ -1,13 +1,14 @@
 {
-	"schema_version": "2.0",
+	"schema_version": "3.0.0",
 	"packages": [
 		{
 			"name": "AgentRansack",
 			"details": "https://github.com/Starli0n/SublimeAgentRansack",
 			"releases": [
 				{
+					"sublime_text": "*",
 					"platforms": "windows",
-					"details": "https://github.com/Starli0n/SublimeAgentRansack"
+					"branch": "master"
 				}
 			]
 		},
@@ -16,24 +17,22 @@
 			"details": "https://github.com/Starli0n/SublimeCmder",
 			"releases": [
 				{
+					"sublime_text": "*",
 					"platforms": "windows",
-					"details": "https://github.com/Starli0n/SublimeCmder"
-				}
-			]
-		},
-		{
-			"name": "Dos",
-			"details": "https://github.com/Starli0n/SublimeDos",
-			"releases": [
-				{
-					"platforms": "windows",
-					"details": "https://github.com/Starli0n/SublimeDos"
+					"branch": "master"
 				}
 			]
 		},
 		{
 			"name": "SmartOpener",
-			"details": "https://github.com/Starli0n/SublimeSmartOpener"
+			"details": "https://github.com/Starli0n/SublimeSmartOpener",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": "windows",
+					"branch": "master"
+				}
+			]
 		}
 	]
 }
