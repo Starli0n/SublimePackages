@@ -13,6 +13,16 @@
 			]
 		},
 		{
+			"name": "Open-Include",
+			"details": "https://github.com/titoBouzout/Open-Include",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "Verbose",
 			"details": "https://github.com/Starli0n/SublimeVerbose",
 			"releases": [

@@ -2,7 +2,7 @@
 	"schema_version": "3.0.0",
 	"packages": [],
 	"includes": [
-		"./repository.json",
-		"./forked_repository.json"
+		"./out_of_control.json",
+		"./patched_repository.json"
 	]
 }
