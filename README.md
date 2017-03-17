@@ -3,6 +3,12 @@
 Repository to store my "package_control.json" for all my packages including forked packages
 
 
+## Installation
+The repository comes along with a `sublime-project`, to use it:
+- Clone the repository to `SublimeText3/Data/Local/package_control.git`
+- Clone the [forked repository channel](https://github.com/Starli0n/f_package_control_channel.git) to `SublimeText3/Data/Local/package_control_channel.git`
+
+
 ## Package Control: ChannelRepositoryTools
 
 Use [ChannelRepositoryTools](https://packagecontrol.io/packages/ChannelRepositoryTools) to ease the development.
@@ -39,5 +45,5 @@ In release
 ```
 
 In development
-* There is no need of those json files as the repositories are cloned directly
-* The `installed_packages` should not contains cloned repository
+* There is no need of `package_control.json` files as the repositories are cloned directly
+* The `installed_packages` entry should not contains cloned repository

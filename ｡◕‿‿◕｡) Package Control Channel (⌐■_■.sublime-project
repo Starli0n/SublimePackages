@@ -1,0 +1,32 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"python",
+				"-m",
+				"unittest"
+			],
+			"file_regex": "^\\s*File \"(.*?)\", line \\d+",
+			"name": "Run Tests",
+			"selector": "source.json, source.python",
+			"working_dir": "${project_path:${folder}}"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "../package_control_channel.git"
+		},
+		{
+			"path": "../package_control.git"
+		}
+	],
+	"settings":
+	{
+		"ensure_newline_at_eof_on_save": true,
+		"translate_to_spaces": false,
+		"trim_trailing_white_space_on_save": true
+	}
+}
